@@ -8,6 +8,9 @@ a{
   text-decoration: none;
   cursor: pointer;
 }
+img{
+  border-radius: 8px;
+}
 ul li{
   list-style: none;
 }
